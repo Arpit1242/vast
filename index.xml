@@ -5,11 +5,11 @@
 
       <AdSystem>InkRevenue Wrapper</AdSystem>
 
-      <VASTAdTagURI>
-        <![CDATA[
-https://pubads.g.doubleclick.net/gampad/ads?iu=/22693816480/Thebeads_Fancode6&description_url=https%3A%2F%2Fwww.getliveupdate.com%2F&tfcd=0&npa=0&sz=640x480&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=[CACHEBUSTER]&nofb=1&ad_rule=0&pod=5&rdid=[DEVICEIFA]&hl=en&idtype=adid&msid=com.dream11sportsguru&omid_p=Google1/android.[SDKVERSION]&js=ima-android.[SDKVERSION]&sdk_apis=2,7,8,9&url=https%3A%2F%2Fcom.dream11sportsguru.adsenseformobileapps.com&wta=1&an=FanCode%3A%20Live%20Cricket%20%26%20Scores&vpa=auto&vpmute=0
-        ]]>
-      </VASTAdTagURI>
+<VASTAdTagURI>
+  <![CDATA[
+https://pubads.g.doubleclick.net/gampad/ads?iu=/22438905166/Video_ATF_03&description_url=[placeholder]&tfcd=0&npa=0&sz=640x480&min_ad_duration=15000&max_ad_duration=45000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=[CACHEBUSTER]
+  ]]>
+</VASTAdTagURI>
 
       <!-- IMPRESSION TRACKING -->
       <Impression>
